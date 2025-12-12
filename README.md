@@ -1,6 +1,6 @@
 # AoC
 
-Adventures through <a href="https://adventofcode.com/" target="_blank">Advent of Code</a>.
+Adventures through [Advent of Code]("https://adventofcode.com/")</a>.
 
 Blurb from the site:
 
